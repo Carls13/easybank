@@ -1,0 +1,1 @@
+Easybank landing page with React.js and styled-components
